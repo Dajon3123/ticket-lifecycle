@@ -32,7 +32,7 @@ This screenshot demonstrates the process of creating and managing a ticket in os
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/kXD5WOd.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this screenshot, I demonstrate the process of handling a ticket from both the end-user and Help Desk Agent (John) perspectives. As an end-user, I create a ticket reporting that the Accounting Department needs an Adobe upgrade due to a broken installation. As John, I review the ticket’s key properties, including Priority, Department, SLA, and Assigned To. I then update the ticket with a Sev-B priority (4 hours, 24/7) and assign it to the Support department. Finally, I resolve the ticket as John, completing the support request. This workflow highlights ticket creation, property configuration, and completion from an agent's perspective.
