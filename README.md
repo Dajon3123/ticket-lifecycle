@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This screenshot demonstrates the process of creating and managing a ticket in osTicket from both an end-user and agent perspective. As an end-user, I created a ticket reporting that the entire mobile/online banking system is down. As a Help Desk Agent (John), I observe the ticket's properties, including Priority, Department, SLA, and Assigned To. The ticket is then updated with Sev-A priority (1 hour, 24/7) and assigned to the Online Banking Department. When logged in as John, I attempt to view or modify the ticket, testing permissions. Finally, I work the ticket to completion as Jane to resolve the issue. This process illustrates ticket handling, role-based access control, and SLA management.
+This screenshot demonstrates the process of creating and managing a ticket in osTicket from both an end-user and agent perspective. As an end-user, I created a ticket reporting that the entire mobile/online banking system is down. As a Help Desk Agent (Karen), I observe the ticket's properties, including Priority, Department, SLA, and Assigned To. The ticket is then updated with Sev-A priority (1 hour, 24/7) and assigned to the Online Banking Department. When logged in as Karen, I attempt to view or modify the ticket, testing permissions. Finally, I work the ticket to completion as Jane to resolve the issue. This process illustrates ticket handling, role-based access control, and SLA management.
 </p>
 <br />
 
