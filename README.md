@@ -43,6 +43,6 @@ In this screenshot, I demonstrate the process of handling a ticket from both the
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot illustrates the process of creating and managing a ticket from the end-user and Help Desk Agent (John) perspectives. As the end-user, I submit a ticket reporting that the CFO’s laptop won’t power on. When logged in as John, the Help Desk Agent, I review the ticket’s details, including its Priority, Department, SLA, and Assigned To fields. I then set the ticket's priority to Sev-B (4 hours, 24/7) and assign it to the Support department. Finally, as John, I work through the issue and resolve the ticket. This example demonstrates how tickets are created, categorized, and resolved by agents within a support system.
 </p>
 <br />
